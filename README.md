@@ -20,3 +20,4 @@ HotelApp: The client class that uses the FrontDesk facade to access and utilize 
 
 ## UML Class Diagram
 
+![Facade Pattern UML](https://github.com/FroilanDelfinJr/facadePattern/assets/142400742/cf8dcd9a-5c0f-447c-9623-0b34a2f039a6)
